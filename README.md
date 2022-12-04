@@ -3,6 +3,9 @@ Edited files of MongoDB's Summer intern take home assessment, "ShoppingCart"
 
 Time spent: approx 2hrs 30m
 
+Language: Python <3.11.0>
+
+
 Work done:
 
   - Improved receipt printing:
